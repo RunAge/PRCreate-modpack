@@ -1,0 +1,13 @@
+name = "Tom's Craftable Items"
+filename = "toms-craftable-items-1.2.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/uOnkT38I/versions/O5X546QR/toms-craftable-items-1.2.0.jar"
+hash-format = "sha512"
+hash = "5cb9e110a7571cd5e36c07e6cd94ea34c5e66afd980d36f07200f61bff75f0eb9fa1aad5277710c4a853ee2999e9f5bc02eaad0c8147e1c2a08ff651e725a576"
+
+[update]
+[update.modrinth]
+mod-id = "uOnkT38I"
+version = "O5X546QR"

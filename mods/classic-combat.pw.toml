@@ -1,0 +1,13 @@
+name = "Classic Combat"
+filename = "ClassicCombat-NeoForge-1.21.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/In5gTp3T/versions/3vnWvUn8/ClassicCombat-NeoForge-1.21.1.jar"
+hash-format = "sha512"
+hash = "c011cc44835a449154c8bb52a6b881da4aaf6870a3ab08fb9964abf349e9afb39f559a7e5333b22747dbb94265c8da12cf8e01cc3d24634c006b8d07c1483c89"
+
+[update]
+[update.modrinth]
+mod-id = "In5gTp3T"
+version = "3vnWvUn8"

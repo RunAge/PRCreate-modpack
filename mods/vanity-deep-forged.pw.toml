@@ -1,0 +1,13 @@
+name = "Vanity: Deep Forged"
+filename = "vanity_deep_forged-1.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/WGTY6Lgi/versions/XQfI20y7/vanity_deep_forged-1.2.jar"
+hash-format = "sha512"
+hash = "0149eff6afbf2aa6a4c7ffe24f0cea8c906a99c8b4cbe058c34f0a361313c42047c8a7b5d4ef16d36f2e28e0ba354b2307ae9901c24fa4cd9d2a876f6399db95"
+
+[update]
+[update.modrinth]
+mod-id = "WGTY6Lgi"
+version = "XQfI20y7"

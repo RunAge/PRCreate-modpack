@@ -1,0 +1,13 @@
+name = "PR Create"
+author = "RunAge"
+version = "1.2.3"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "9ea0fa2f188ba567756de734aaa0af24ab188b87e44ff9b8cf98113df6581a96"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.170"

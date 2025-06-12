@@ -1,6 +1,6 @@
 name = "PR Create"
 author = "RunAge"
-version = "1.2.3"
+version = "1.2.4"
 pack-format = "packwiz:1.1.0"
 
 [index]
@@ -10,4 +10,4 @@ hash = "f5a6674eac01f06d6f8655f1612c8a318e5040dbfcb05f8ba69b4af57f345d03"
 
 [versions]
 minecraft = "1.21.1"
-neoforge = "21.1.170"
+neoforge = "21.1.176"

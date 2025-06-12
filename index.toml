@@ -56,6 +56,11 @@ hash = "93c4acd165a291c6d1e69c27b05b2747afc926b38a414712263fbc95f42da323"
 metafile = true
 
 [[files]]
+file = "mods/c2me-neoforge.pw.toml"
+hash = "5f373d6f13b6e39d4bbdda7afb78cd0205a1e675f4bd783a3b2e443240c68c7d"
+metafile = true
+
+[[files]]
 file = "mods/carry-on.pw.toml"
 hash = "8fde54624913d86f1176cd1086fa485f1a872573dac144347c57cab76596b715"
 metafile = true
@@ -103,6 +108,11 @@ metafile = true
 [[files]]
 file = "mods/create-connected.pw.toml"
 hash = "bf0d029b804c724434ee9415581655fcd6d4d4d8c09625044a755bff510aa914"
+metafile = true
+
+[[files]]
+file = "mods/create-contraption-terminals.pw.toml"
+hash = "02d3c2c9758fe92e9010111553cbdc4edd009ffc543af0eac41b7b016a7047d1"
 metafile = true
 
 [[files]]
@@ -157,7 +167,7 @@ metafile = true
 
 [[files]]
 file = "mods/create.pw.toml"
-hash = "ff54adc13d204ceacffbf4cacce611bb3c6e7c741a912ee297259a4f1e576e61"
+hash = "7f25446123f66f57e7cc8e148155a3da39d85b31963c663b5b9be77fc1bacbe6"
 metafile = true
 
 [[files]]
@@ -172,7 +182,7 @@ metafile = true
 
 [[files]]
 file = "mods/createbetterfps.pw.toml"
-hash = "87aa1394bc5c0211ac0b39b669b08219b00faae6a442efde762da18238afbcce"
+hash = "c3b470a8b102c0b6608492721b34c3cdfe4506621d0d8b05ad2c9f0371e9fa41"
 metafile = true
 
 [[files]]
@@ -211,6 +221,11 @@ hash = "109c9d01f242faad432dc1cfc03a0fd0dcfe5623c28cbe2bc9092ec01dec6ec8"
 metafile = true
 
 [[files]]
+file = "mods/efficient-furnace.pw.toml"
+hash = "c0c4eb7e9357554bf07ba59f5f5ba78aedf9de121d2955017ca2ced9be4b4603"
+metafile = true
+
+[[files]]
 file = "mods/entity-model-features.pw.toml"
 hash = "3a4e194e945214cc457178f48e65b9ab6a8201b6d15b9736cd673324b70b6edd"
 metafile = true
@@ -223,11 +238,6 @@ metafile = true
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
 hash = "65cd00e90de065e99d13352fd5d8aa3bc28d062b9dc935cf1da914a2047b2208"
-metafile = true
-
-[[files]]
-file = "mods/euphoria-patches.pw.toml"
-hash = "6b3bb4f1428d108f1d538b143be7567ea1b24b795e7ad8442bf77d6e1b5c6e7d"
 metafile = true
 
 [[files]]
@@ -341,6 +351,11 @@ hash = "0a983d1515e1713d1a0ae7738091909101c368be2726a446e4ca29c62fe555c2"
 metafile = true
 
 [[files]]
+file = "mods/kubejs.pw.toml"
+hash = "eba62fcfbe8678c035ef239481af4f01b21b33d198f8bf7467726e02bf37f845"
+metafile = true
+
+[[files]]
 file = "mods/leaves-be-gone.pw.toml"
 hash = "3f907a8532b4ca98390055ca0cb1bbd87e8ebcd44be6afe9b69280859ff37035"
 metafile = true
@@ -431,6 +446,11 @@ hash = "cb40fc0e1e0a3338d57b34a5ba2612ae9a9f0e32619695c4da637a98b4e52cf3"
 metafile = true
 
 [[files]]
+file = "mods/packet-fixer.pw.toml"
+hash = "a4bb06abbfebf51a4dee16e88d8909c5582c3cfcaca848076cc7f63a25e0682b"
+metafile = true
+
+[[files]]
 file = "mods/placebo.pw.toml"
 hash = "d94f05f57f4a981d3e0fda30b3def484cee5715edc48d8a2a0c8173008a125ea"
 metafile = true
@@ -443,6 +463,11 @@ metafile = true
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "09306b955060349986ccf6a6d2a67f1e019fa172a7dc690dd6007f81c966309a"
+metafile = true
+
+[[files]]
+file = "mods/rhino.pw.toml"
+hash = "4c4185186dccb224e20da04103e40c32cfe11b8c6884b83e8d6ac60857daf969"
 metafile = true
 
 [[files]]

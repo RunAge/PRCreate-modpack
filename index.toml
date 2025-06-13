@@ -1,6 +1,20 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".github/workflows/static.yml"
+hash = "63eeb2e3ccb0fc34289ab0dc78c17a01c76a55a597d7e6421743231798fb22aa"
+
+[[files]]
+file = "mods/accessories-cc-layer.pw.toml"
+hash = "8f90a500df28d497fe7e323b40ee55640bc63141284ce2189a7766c976a91378"
+metafile = true
+
+[[files]]
+file = "mods/accessories.pw.toml"
+hash = "ce5d0cd5986126c23dc35c89a6d2124751071693c034afc3799b4f633466997f"
+metafile = true
+
+[[files]]
 file = "mods/ai-improvements.pw.toml"
 hash = "62611a2b798035390a280b158563cfa590ab6f3465b77be46949839809dbe77f"
 metafile = true
@@ -183,11 +197,6 @@ metafile = true
 [[files]]
 file = "mods/createbetterfps.pw.toml"
 hash = "c3b470a8b102c0b6608492721b34c3cdfe4506621d0d8b05ad2c9f0371e9fa41"
-metafile = true
-
-[[files]]
-file = "mods/curios.pw.toml"
-hash = "36debf7653e95a855b4fedacc19027cf2e01960fc0b6d55ef2ffbffbcb455690"
 metafile = true
 
 [[files]]
@@ -443,6 +452,11 @@ metafile = true
 [[files]]
 file = "mods/overflowing-bars.pw.toml"
 hash = "cb40fc0e1e0a3338d57b34a5ba2612ae9a9f0e32619695c4da637a98b4e52cf3"
+metafile = true
+
+[[files]]
+file = "mods/owo-lib.pw.toml"
+hash = "b30bf3e10fdb43cb451091d4cc8ff88081895686c492c1bbff50ce0c74a3e85b"
 metafile = true
 
 [[files]]

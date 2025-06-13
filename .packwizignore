@@ -1,2 +1,7 @@
 /converter
 /.github
+/servers
+.gitignore
+.gitattributes
+README.md
+LICENSE

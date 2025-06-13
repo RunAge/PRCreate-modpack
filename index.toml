@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".github/workflows/static.yml"
-hash = "63eeb2e3ccb0fc34289ab0dc78c17a01c76a55a597d7e6421743231798fb22aa"
-
-[[files]]
 file = "mods/accessories-cc-layer.pw.toml"
 hash = "8f90a500df28d497fe7e323b40ee55640bc63141284ce2189a7766c976a91378"
 metafile = true

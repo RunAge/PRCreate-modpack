@@ -76,6 +76,11 @@ hash = "8fde54624913d86f1176cd1086fa485f1a872573dac144347c57cab76596b715"
 metafile = true
 
 [[files]]
+file = "mods/chunky.pw.toml"
+hash = "1d5cc2b6dcfd1fc3adba4566b1c29b57ff1175316678c1f22e63cbc3e28a5ba0"
+metafile = true
+
+[[files]]
 file = "mods/classic-combat.pw.toml"
 hash = "8734b77f5f221774d417ca5d5f71f5874a7c8e492f83d41776ff3bd9d7f85979"
 metafile = true
@@ -88,6 +93,11 @@ metafile = true
 [[files]]
 file = "mods/clumps.pw.toml"
 hash = "2acaff560bbda5741538528a2967355ec86a8f7564adba0b2316989c66892374"
+metafile = true
+
+[[files]]
+file = "mods/comforts.pw.toml"
+hash = "5e0a875282f4abed66a2cccf7929488ebb5e88447d2bb3369e8ddc728fc66fc0"
 metafile = true
 
 [[files]]
@@ -266,6 +276,11 @@ hash = "05d96d5b17399f048469ff4b44451eb8d99cc7a2a075ff55718c397cb508b0c2"
 metafile = true
 
 [[files]]
+file = "mods/flerovium.pw.toml"
+hash = "52e65b5e25c60c629ad269147895f91bf29f16230a4f4153e70169bf28d757d9"
+metafile = true
+
+[[files]]
 file = "mods/flight-api.pw.toml"
 hash = "3ed30bdb4af57724acbe28a85399d43ac2c93bbb8f338ecdb0718f1bb98452d9"
 metafile = true
@@ -298,6 +313,11 @@ metafile = true
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "d102275300c327312e3ea9afd6844d4627637cffa68525af69951fe2eeca33b0"
+metafile = true
+
+[[files]]
+file = "mods/immersive-lanterns.pw.toml"
+hash = "0c9eb7002bd08576fb9b666cfaa103098eaf1480fd553ba3471b9568ac145e37"
 metafile = true
 
 [[files]]
@@ -563,6 +583,11 @@ metafile = true
 [[files]]
 file = "mods/trading-post.pw.toml"
 hash = "16f417ed44c348280988e3c52c409a6f5c1ff22e2a8fcfb9f473fc261b93992c"
+metafile = true
+
+[[files]]
+file = "mods/txnilib.pw.toml"
+hash = "bbf8f2ba1e4bba18c1f61b2f003063052f56dd9951ceae3e227b6cbf9affd29f"
 metafile = true
 
 [[files]]

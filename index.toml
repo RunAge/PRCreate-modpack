@@ -1,6 +1,30 @@
 hash-format = "sha256"
 
 [[files]]
+file = "kubejs/config/client.json"
+hash = "de241e99c33070805a1f039d6edb46c67cd92c93c7787e177fa38d15ed9007da"
+
+[[files]]
+file = "kubejs/config/common.json"
+hash = "e00a67922942660d77c213379b5128a46c5abc894178b0be04006d325ff5f6b3"
+
+[[files]]
+file = "kubejs/config/probe-settings.json"
+hash = "b23f9fecb5b0322b5a8ed2dad268f66078381e3248298e4116186d260533862a"
+
+[[files]]
+file = "kubejs/config/web_server.json"
+hash = "b866f0010b304fea7489bf8a8e7b2b8ee5b6ae4666b7f294ed74c745b600a44f"
+
+[[files]]
+file = "kubejs/server_scripts/angle_ring.js"
+hash = "0b407f03395c91602925daa28aafe081b8597944396bfe927f86f1e59056425e"
+
+[[files]]
+file = "kubejs/server_scripts/jsconfig.json"
+hash = "3514ac2481b12e2d57761a9fa9b081f4944a966b4bef4bab30c030c18543eb4d"
+
+[[files]]
 file = "mods/accessories-cc-layer.pw.toml"
 hash = "8f90a500df28d497fe7e323b40ee55640bc63141284ce2189a7766c976a91378"
 metafile = true
